@@ -1,12 +1,12 @@
-# 🏏 IPL Match Analysis Using Python
+#  IPL Match Analysis Using Python
 
-## 📌 Project Overview
+##  Project Overview
 
 The **IPL Match Analysis Using Python** is a beginner-level data analysis project developed using Python. The main objective of this project is to analyze Indian Premier League (IPL) cricket match data and extract useful information such as team performance, match results, winning statistics, and player performance.
 
 This project uses Python libraries like **Pandas and NumPy** to organize, process, and analyze cricket match data.
 
-## 🎯 Objectives
+##  Objectives
 
 - To analyze IPL match data using Python.
 - To identify the number of matches played by different teams.
@@ -16,7 +16,7 @@ This project uses Python libraries like **Pandas and NumPy** to organize, proces
 - To identify the player who won the most Player of the Match awards.
 - To understand basic data analysis using Pandas and NumPy.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -26,7 +26,7 @@ This project uses Python libraries like **Pandas and NumPy** to organize, proces
 | CSV | Data storage |
 | VS Code / IDLE | Code editor |
 
-## ✨ Project Features
+##  Project Features
 
 1. **Match Analysis:** Displays the total number of IPL matches.
 2. **Team Performance:** Analyzes the performance of different IPL teams.
@@ -36,7 +36,7 @@ This project uses Python libraries like **Pandas and NumPy** to organize, proces
 6. **Season Analysis:** Provides season-wise IPL statistics.
 7. **Data Processing:** Uses Pandas and NumPy for data processing and calculations.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 IPL_Match_Analysis/
@@ -93,7 +93,7 @@ If you are using Windows and the `python` command does not work, try:
 py main.py
 ```
 
-## 📊 Expected Output
+##  Expected Output
 
 The program displays useful IPL statistics, such as:
 
@@ -106,7 +106,7 @@ The program displays useful IPL statistics, such as:
 
 *Note: Actual results depend on the IPL dataset used in the project.*
 
-## 📚 Python Concepts Used
+##  Python Concepts Used
 
 - Variables and Data Types
 - Lists and Dictionaries
@@ -118,7 +118,7 @@ The program displays useful IPL statistics, such as:
 - Data Filtering and Sorting
 - Basic Statistical Analysis
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, we learned:
 
@@ -129,7 +129,7 @@ Through this project, we learned:
 5. How to analyze and interpret numerical information.
 6. How to develop a basic Python project.
 
-## 👨‍💻 Project Information
+##  Project Information
 
 **Project Title:** IPL Match Analysis Using Python
 
@@ -143,6 +143,5 @@ Through this project, we learned:
 
 ---
 
-⭐ If you find this project useful, feel free to explore and modify it for learning purposes.
-
-**Thank You!** 🏏
+Author 
+Anup Raj
